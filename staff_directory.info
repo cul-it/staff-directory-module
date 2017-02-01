@@ -1,0 +1,6 @@
+; $Id$
+name = "Staff Directory"
+description = "Manage staff directory information."
+package = "Cornell University Library"
+core = 6.x
+php = 5.x

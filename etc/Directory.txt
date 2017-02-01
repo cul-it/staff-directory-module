@@ -1,0 +1,451 @@
+Spoon	Jacalyn	201 Johnson Ctr Birds & Biodiv	4-2165	Adelson Library	Adelson Library	jcs93@cornell.edu
+Acree	Eric	310 Triphammer Road	5-5229	Africana Library	Africana Library	ea18@cornell.edu
+Powers	Sharon	310 Triphammer Road	5-3822	Africana Library	Africana Library	sp91@cornell.edu
+Quigee	Saah	310 Triphammer Road	5-3822	Africana Library	Africana Library	snq2@cornell.edu
+Beebe	LuAnn	Annex Library	3-3431	Annex Library	Annex Library	lb74@cornell.edu
+Howard	John	Annex Library	3-3431	Annex Library	Annex Library	jah43@cornell.edu
+Htoo	Saw	"Library Annex, Palm Road"	3-3431	Annex Library	Annex Library	sh364@cornell.edu
+Payne	Michele	Annex Library	3-3901	Annex Library	Annex Library	mp268@cornell.edu
+Petukhova	Tatyana	106 Library Annex	3-3164	Annex Library	Preservation & Collection Maintenance (P)	tp16@cornell.edu
+Pha	Paw	B40 Olin Library	5-6905	Annex Library	Annex Library	pp238@cornell.edu
+Wyckoff	Cammie	Annex Library	3-3514	Annex Library	Annex Library	cjh8@cornell.edu
+Baxter	Pam	391 Pine Tree Rd.	5-1365	CISER	CISER	pmb9@cornell.edu
+Clune	Carol	114 Carpenter Hall	5-5933	Engineering Library	Engineering Library	cec233@cornell.edu
+Cusker	Jeremy	Carpenter Hall	5-4318	Engineering Library	Engineering Library	jpc27@cornell.edu
+Morse	Annemarie	231 Carpenter Hall	5-8304	Engineering Library	Engineering Library	alm22@cornell.edu
+Padgett	Melody	115A Carpenter Hall	5-9194/5-4318	Engineering Library	Engineering Library	mlp57@cornell.edu
+Patterson	Mary	103-A Carpenter Hall	5-3925	Engineering Library	Engineering Library	mep4@cornell.edu
+Powell	Jill	103A Carpenter Hall	5-8701	Engineering Library	Engineering Library	jhp1@cornell.edu
+Saylor	John	104A Carpenter Hall	5-4134	Engineering Library	Engineering Library	jms1@cornell.edu
+Vellake	Catherine	114 Carpenter Hall	5-4318	Engineering Library	Engineering Library	csv3@cornell.edu
+Bahn	Carla	235 Sibley Dome	5-6717	Fine Arts Library	Fine Arts Library	ceb6@cornell.edu
+Beyer	Elizabeth	235 Sibley Hall	5-3710	Fine Arts Library	Fine Arts Library	eab4@cornell.edu
+Feint	Brennen	235 Sibley Hall	5-6717	Fine Arts Library	Fine Arts Library	brf44@cornell.edu
+Parker	William	235 Sibley Hall	5-3710	Fine Arts Library	Fine Arts Library	wdp4@cornell.edu
+Pinto	Virgilio	235 Sibley Hall	4-3517	Fine Arts Library	Fine Arts Library	vp22@cornell.edu
+Walker	Martha	Sibley Dome	5-6719	Fine Arts Library	Fine Arts Library	maw6@cornell.edu
+Fordon	Michael	Frank A. Lee Library	315-787-2214	Geneva Library	Geneva Library	mpf8@cornell.edu
+King	Holly	Frank A. Lee Library	4-9214	Geneva Library	Geneva Library	hak3@cornell.edu
+Schlabach	Martin	2136 Comstock Hall	5-7822	Geneva Library	Geneva Library	mls5@cornell.edu
+Bobbett	Karen	G80 Statler Hall	4-4656	Hotel Library	Hotel School Library	kcb2@cornell.edu
+Bolton	Kenneth	G80 Staltler	5-4103	Hotel Library	Hotel School Library	ktb4@cornell.edu
+Brown	Derrick	G80D Statler Hall	5-8340	Hotel Library	Hotel School Library	djb4@cornell.edu
+Hines	Jessica	G80-A Statler Hall	5-0389	Hotel Library	Hotel School Library	jeh268@cornell.edu
+Ng	Vanessa	G80-A Statler Hotel	5-8342	Hotel Library	Hotel School Library	vn11@cornell.edu
+Schnedeker	Donald	G80 Statler Hall	5-8771	Hotel Library	Hotel School Library	dws2@cornell.edu
+Shampnois	Jeffrey	G80D Statler Hall	5-2230	Hotel Library	Hotel School Library	jhs11@cornell.edu
+Basefsky	Stuart	239C Ives Hall	5-2703/5-2184	ILR	ILR Catherwood Library	smb6@cornell.edu
+Clark	Marcia	421 Ives Hall	5-7536	ILR	ILR Catherwood Library	mc31@cornell.edu
+Cohen	Suzanne	521F Ives Hall	5-7105	ILR	ILR Catherwood Library	sac29@cornell.edu
+Dean	Julie	521 Ives Hall	5-8045	ILR	ILR Catherwood Library	jmd44@cornell.edu
+Del Rosso	James	225 Ives Hall	5-8688	ILR	ILR Catherwood Library	jdd10@cornell.edu
+Gollnick	Stephen	239 F Ives Hall	5-5035	ILR	ILR Catherwood Library	sbg13@cornell.edu
+Hamilton	Helen	239 Ives Hall	5-2184	ILR	ILR Catherwood Library	hhh2@cornell.edu
+Holland	Melissa	227B Ives Hall	5-3183	ILR	ILR Catherwood Library	mmh5@cornell.edu
+Kemp	Zachary	225 Ives Hall	5-2720	ILR	ILR Catherwood Library	zvk2@cornell.edu
+King	Lynn	225F Ives Hall	5-2700	ILR	ILR Catherwood Library	lmk8@cornell.edu
+LaCette	Susan	239A Ives Hall	5-9178	ILR	ILR Catherwood Library	skl2@cornell.edu
+Lamb-Deans	Debra	521C Ives Hall	5-3260	ILR	ILR Catherwood Library	dsl6@cornell.edu
+Law	Gordon	521 Ives Hall	5-5435	ILR	ILR Catherwood Library	gtl1@cornell.edu
+Leary	Patricia	421C Ives Hall	4-1549	ILR	ILR Catherwood Library	pl17@cornell.edu
+Lyons	Curtis	227 Ives Hall	5-3183	ILR	ILR Catherwood Library	cl672@cornell.edu
+Miles	Randall	ILR Library	5-2705	ILR	ILR Catherwood Library	rm527@cornell.edu
+Miller	Christian	239B Ives Hall	5-5576	ILR	ILR Catherwood Library	cjm267@cornell.edu
+Miller	Kevin	225 Ives Hall	5-2098	ILR	ILR Catherwood Library	km15@cornell.edu
+Morley	Barbara	227 Ives Hall	5-3183	ILR	ILR Catherwood Library	blm2@cornell.edu
+Newhart	Mary	239 Ives Hall	5-2713	ILR	ILR Catherwood Library	mjn3@cornell.edu
+Reeves	Sharon	521 Ives Hall	5-5435	ILR	ILR Catherwood Library	sar3@cornell.edu
+Sione	Patrizia	227 Ives Hall	5-3183	ILR	ILR Catherwood Library	ps39@cornell.edu
+Wagner	Angela	225 Ives Hall	5-3100	ILR	ILR Catherwood Library	amw3@cornell.edu
+Young	Linda	521 Ives Hall	5-4556/5-5435	ILR	ILR Catherwood Library	ljy1@cornell.edu
+Atkinson	Carole	176 Kroch Library	5-8199	Kroch Library	Asia Collections	cea1@cornell.edu
+Bledsoe	Bronwen	181 Kroch Library	5-9479	Kroch Library	South Asia Collection	bb246@cornell.edu
+Block	David	2B57 Kroch Library	5-9480	Kroch Library	Rare & Manuscript Collections	db10@cornell.edu
+Brown	Eleanor	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	eb89@cornell.edu
+Carson	Anne	2B59 Kroch	5-3530	Kroch Library	LTS - Cataloging	arc3@cornell.edu
+Corson	David	B70 Kroch Library	5-3530/5-5477	Kroch Library	Rare & Manuscript Collections	dwc4@cornell.edu
+Dremel	Lorena	177 Kroch Library	5-4189	Kroch Library	Echols SE Asia Collection	ld286@cornell.edu
+Engst	Elaine	2B60 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	ee11@cornell.edu
+Ferri	Laurent	2B Krock Library	5-3530	Kroch Library	Rare & Manuscript Collections	lf66@cornell.edu
+Finnerty	Concetta	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	cmf58@cornell.edu
+Green	Gregory	179 Kroch Library	5-8889	Kroch Library	Echols SE Asia Collection	ghg4@cornell.edu
+Guimaraes	Ana	2B Kroch Library	4-4870	Kroch Library	Rare & Manuscript Collections	abg82@cornell.edu
+Heeran	Eileen	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	emh57@cornell.edu
+Keating	Eileen	B71 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	eek2@cornell.edu
+Keen	Sarah	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	sek38@cornell.edu
+LeFever	Lisa	182 Kroch Library	5-9777	Kroch Library	South Asia Collection	ll31@cornell.edu
+Linke	Laura	2B60 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	lml3@cornell.edu
+Marston	Brenda	2B60 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	bjm4@cornell.edu
+McKee	Daniel	173 Kroch	5-4737	Kroch Library	Wason E. Asia Collection	djm53@cornell.edu
+Moore	Donna	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	dkm11@cornell.edu
+Nichols	Margaret	2B53 Kroch Library	5-3530	Kroch Library	LTS - Cataloging	mnr1@cornell.edu
+Parker	Julia	2B60 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	jcp8@cornell.edu
+Petersen	Jeffrey	178 Kroch Library	5-7229	Kroch Library	Echols SE Asia Collection	jwp42@cornell.edu
+Prather	Eisha	2B Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	elp48@cornell.edu
+Reagan	Katherine	2B Kroch Lib	5-3530	Kroch Library	Rare & Manuscript Collections	kr33@cornell.edu
+Rowland	Cheryl	2B76 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	cmr12@cornell.edu
+Stevens	Patrick	2B60 Kroch Library	5-3530	Kroch Library	Rare & Manuscript Collections	pjs3@cornell.edu
+Williams	Kenneth	2B Kroch Library	5-5281	Kroch Library	Rare & Manuscript Collections	kaw5@cornell.edu
+Wu	Xian	174 Kroch Library	4-4799	Kroch Library	Wason E. Asia Collection	xw53@cornell.edu
+Yang	Carrie	Kroch Library	5-4357	Kroch Library	Wason E. Asia Collection	cwy3@cornell.edu
+Zheng	Liren	172 Kroch Library	5-5759	Kroch Library	Wason E. Asia Collection	lz14@cornell.edu
+Bogart	Gary	340 Myron Taylor Hall	5-5861	Law Library	Law Library	gsb1@cornell.edu
+Callihan	Jean	380 Myron Taylor Hall	5-9691	Law Library	Law Library	jc374@cornell.edu
+Court	Patricia	359 Myron Taylor Hall	5-5853	Law Library	Law Library	pgc1@cornell.edu
+Drumheller	Jane	377 Myron Taylor Hall	5-9372	Law Library	Law Library	jsd26@cornell.edu
+Eden	Brian	377 Myron Taylor Hall	5-9372	Law Library	Law Library	bbe2@cornell.edu
+Finger	Charles	340A Myron Taylor Hall	5-5862	Law Library	Law Library	cf72@cornell.edu
+Germain	Claire	365 Myron Taylor Hall	5-5857	Law Library	Law Library	cmg13@cornell.edu
+Gillespie	Janet	352  Myron Taylor Hall	5-7236	Law Library	Law Library	jmg32@cornell.edu
+Hand	Elizabeth	340 Myron Taylor Hall	5-5860	Law Library	Law Library	ekh3@cornell.edu
+Hartman	Kathleen	340 Myron Taylor Hall	5-5860	Law Library	Law Library	keh7@cornell.edu
+Hills	Suzanne	340 Myron Taylor Hall	5-5863	Law Library	Law Library	smh11@cornell.edu
+Jones	Julie	340B Myron Taylor	5-5858	Law Library	Law Library	jmj45@cornell.edu
+Jones	Patricia	340 Myron Taylor Hall	5-9867	Law Library	Law Library	paj3@cornell.edu
+Louis	W. Mae	340 Myron Taylor Hall	5-5861	Law Library	Law Library	wml1@cornell.edu
+Mills	Thomas	353 Myron Taylor Hall	5-5859	Law Library	Law Library	twm26@cornell.edu
+Moore	Nancy	377 Myron Taylor Hall	5-5750	Law Library	Law Library	njm5@cornell.edu
+Morrison	Matthew	355 Myron Taylor Hall	5-2487	Law Library	Law Library	mmm72@cornell.edu
+O'Hara	Christiane	360 Myron Taylor Hall	5-5856	Law Library	Law Library	cmo10@cornell.edu
+Pajerek	Jean Marie	340C Myron Taylor Hall	5-4018	Law Library	Law Library	jmp8@cornell.edu
+Robert	Laura	377 Myron Taylor Hall	5-9372	Law Library	Law Library	lar11@cornell.edu
+Skenderija	Sasha	G25  Myron Taylor Hall	4-4566	Law Library	Law Library	ss234@cornell.edu
+Teskey	Elizabeth	340 Myron Taylor Hall	5-5863	Law Library	Law Library	et14@cornell.edu
+Bartholomew	Barbara	101A Sage Hall	5-3389	Management Library	Management Library	bfb2@cornell.edu
+Horne	Angela	101H Sage Hall	5-9242	Management Library	Management Library	akh8@cornell.edu
+Jackson	Melissa	Sage Hall	5-3389	Management Library	Management Library	maj2@cornell.edu
+Kendrick	Susan	101F Sage Hall	5-6949	Management Library	Management Library	sfk23@cornell.edu
+MacGurn	Elena	101 Sage Hall	5-7152	Management Library	Management Library	evm26@cornell.edu
+Ringland	M. Lee	101D Sage Hall	5-9247	Management Library	Management Library	mlr27@cornell.edu
+Shoemaker	Robin	101A Sage Hall	5-3389	Management Library	Management Library	rls17@cornell.edu
+Smith	Doris	101 Sage Hall	5-3389	Management Library	Management Library	das10@cornell.edu
+Tang	Neely	101 Sage Hall	5-9241	Management Library	Management Library	nt243@cornell.edu
+Whitaker	Teresa	101A Sage Hall	5-3389	Management Library	Management Library	tsr1@cornell.edu
+Ackerblade	Margaret	Mann Library	5-7965	Mann Library	"Mann Library, Public Serv"	mra3@cornell.edu
+Andrews	Camille	"Mann Library, Rm 170"	5-8673	Mann Library	Mann Library	ca92@cornell.edu
+Brown	Frank	Mann Library	4-4921	Mann Library	Mann Library	fbb5@cornell.edu
+Bush	Betsy	Mann Library	5-9569	Mann Library	"Mann Library, Public Serv"	bab7@cornell.edu
+Callais	Donna	ITS Mann Library	5-3091	Mann Library	"Mann Library, ITS"	dmc8@cornell.edu
+Cappadona	Nicholas	Mann Library	4-5238	Mann Library	Mann Library	nac26@cornell.edu
+Caruso	Brian	Mann Library ITS Office	5-9570	Mann Library	"Mann Library, ITS"	bdc34@cornell.edu
+Chiang	Katherine	Mann Library	5-7957	Mann Library	"Mann Library, Public Serv"	ksc3@cornell.edu
+Clark	Roswitha	B60 Mann Library	5-4527	Mann Library	LTS - Cataloging	rc28@cornell.edu
+Clausen	Thomas	Mann Library	5-7965/5-3296	Mann Library	"Mann Library, Public Serv"	tpc2@cornell.edu
+Cline	John	ITS Mann Library	5-9570	Mann Library	"Mann Library, ITS"	jac244@cornell.edu
+Cook	Michael	173 Mann Library	5-7959	Mann Library	"Mann Library, Coll Dev"	mnc2@cornell.edu
+Corson-Rikert	Jonathan	201 Mann Library	5-4608	Mann Library	"Mann Library, ITS"	jc55@cornell.edu
+Cowles	Shirley	Mann Library	5-2285	Mann Library	"Mann Library, Admin"	shc33@cornell.edu
+Dailey	Nancy	Mann Library	5-7731	Mann Library	"Mann Library, Public Serv"	nld3@cornell.edu
+Devare	Medha	166 Mann Library	5-2199	Mann Library	Mann Library	mhd6@cornell.edu
+Ditmars	Margarita	Mann Library	4-7754	Mann Library	"Mann Library, Public Serv"	med3@cornell.edu
+Diver	Jeffrey	Mann Library	5-3240	Mann Library	"Mann Library, Public Serv"	jad2@cornell.edu
+Elswit	Elizabeth	Mann Library	5-3418	Mann Library	LTS - EResources & Serials (C)	eee6@cornell.edu
+Fereira	John	ITS Mann Library	5-7705	Mann Library	"Mann Library, ITS"	jaf30@cornell.edu
+Ferretti	Eveline	Mann Library	4-4993	Mann Library	"Mann Library, Admin"	ef15@cornell.edu
+Ferris	Angela	202 Mann Library	5-1040	Mann Library	"Mann Library, Admin"	amf6@cornell.edu
+Guidero	Elaine	B75  Mann Library	5-7317	Mann Library	Mann Library	emg34@cornell.edu
+Hyland	Nancy	Mann Library	5-8125	Mann Library	"Mann Library, Public Serv"	nch9@cornell.edu
+Jenkins	Keith	170 Mann Library	5-7192	Mann Library	Mann Library	kgj2@cornell.edu
+Kara	William	Mann Library	5-7952	Mann Library	LTS - EResources & Serials (C)	wjk4@cornell.edu
+Klinko	William	ITS Mann Library	5-1381/4-5261	Mann Library	"Mann Library, ITS"	whk2@cornell.edu
+Kluz	Elizabeth	"Annex Library, Palm Rd."	3-3431	Mann Library	Annex Library	ek434@cornell.edu
+Koennecke	Jesse	180 Mann Library	5-5680	Mann Library	"Mann Library, Public Serv"	jtk1@cornell.edu
+Krkoska	Baseema	Mann Library	5-4044	Mann Library	"Mann Library, Public Serv"	bb75@cornell.edu
+Larrimore	Laura	Mann Library	5-7731	Mann Library	Mann Library	ll32@cornell.edu
+Lawrence	Gregory	Mann Library	5-3242	Mann Library	"Mann Library, Tech Serv"	gwl1@cornell.edu
+Lowe	Brian	206 Mann Library	5-9958	Mann Library	"Mann Library, ITS"	bjl23@cornell.edu
+Lowe	Carol	Mann Library	5-8541	Mann Library	Mann Library	cml74@cornell.edu
+McCue	Janet	Mann Library	5-2285	Mann Library	"Mann Library, Admin"	jam7@cornell.edu
+Mistlebauer	Holly	ITS Mann Library	4-5261	Mann Library	"Mann Library, ITS"	hlm7@cornell.edu
+Mobley	Liisa	Mann Library	5-3241	Mann Library	LTS - EResources & Serials (C)	lsk24@cornell.edu
+Morris-Knower	James	Mann Library	5-6197	Mann Library	"Mann Library, Public Serv"	jpk15@cornell.edu
+Ochs	Mary	Mann Library	5-6919	Mann Library	"Mann Library, Coll Dev"	mao4@cornell.edu
+Paulson	Joy	B76 Mann Library	5-7950	Mann Library	"Mann Library, Coll Dev"	jp243@cornell.edu
+Piestrak	Jeffrey	Mann Library	5-7956	Mann Library	"Mann Library, Public Serv"	jmp36@cornell.edu
+Raskin	Howard	175 Mann Library	5-7960	Mann Library	"Mann Library, Public Serv"	hbr1@cornell.edu
+Rice	Christina	"Mann Library, 2nd Floor"	5-7963/5-2285	Mann Library	"Mann Library, Admin"	car26@cornell.edu
+Smith	Guy	Mann Library	5-3661 5-3530	Mann Library	"Mann Library, Coll Dev"	ges9@cornell.edu
+Spear	James	Acq. Mann Library	4-7446	Mann Library	LTS - EResources & Serials (C)	jds11@cornell.edu
+Steinhart	Gail	168 Mann Library	5-7251	Mann Library	Mann Library	gss1@cornell.edu
+Stewart	Linda	180 Mann Library	5-9022	Mann Library	"Mann Library, Coll Dev"	lgs1@cornell.edu
+Sweet	Cynthia	Mann Library	5-3241	Mann Library	LTS - EResources & Serials (C)	cls3@cornell.edu
+Thomas	William	B61 Mann Library	4-4775	Mann Library	"Mann Library, Admin"	wjt42@cornell.edu
+Thompson	Wendy	Mann Library	5-6905	Mann Library	"Mann Library, Public Serv"	wft4@cornell.edu
+Trapani	Nanci	B60 Mann Library	4-7446	Mann Library	LTS - EResources & Serials (E)	nmt5@cornell.edu
+Trutt	Thomas	Mann Library	5-9569	Mann Library	"Mann Library, Public Serv"	 tit1@cornell.edu
+Turner	Jaron	Mann Library	5-9958	Mann Library	"Mann Library, Admin"	jat264@cornell.edu
+Vent	Olivia	Mann Library	5-8939	Mann Library	"Mann Library, Admin"	ov1@cornell.edu
+Wayno	Judith Evelyn	CD Mann Library	5-7956	Mann Library	"Mann Library, Coll Dev"	jew24@cornell.edu
+Webb	Frances	Mann Library	5-7705	Mann Library	"Mann Library, ITS"	fbw4@cornell.edu
+Wells	Theresa	Mann Library	5-7965	Mann Library	"Mann Library, Public Serv"	tw44@cornell.edu
+Willits	Robert	B-60 Mann Library	5-7955	Mann Library	LTS - EResources & Serials (E)	rdw5@cornell.edu
+Wilson	Marijo	B60 Mann Library	5-4527	Mann Library	LTS - Cataloging	msw9@cornell.edu
+Wood	Jane	Mann Library	5-5406	Mann Library	"Mann Library, Public Serv"	jrw11@cornell.edu
+Zieba	Edward	B60 Mann Library	5-7706	Mann Library	LTS - EResources & Serials (E)	epz1@cornell.edu
+Leary	Joanne	Malott Hall	5-5936	Math Library	Math Library	jl41@cornell.edu
+Rockey	Steven	420 B Malott	5-5268	Math Library	Math Library	swr1@cornell.edu
+Sheridan	Natalie	420A Malott Hall	4-3568/5-5076	Math Library	Math Library	nas20@cornell.edu
+Alberts	James	216B Lincoln Hall	5-6160	Music Library	LTS - Cataloging	ja253@cornell.edu
+Boettcher	Bonna	216B Lincoln Hall	5-7126	Music Library	Music Library	bjb57@cornell.edu
+Feinstein	Eric	220 Lincoln Hall	5-4011	Music Library	Music Library	ehf6@cornell.edu
+Ponchione	Cayenna	Lincoln Hall	5-4011	Music Library	Music Library	crp22@cornell.edu
+Schneller	Lenora	220 Lincoln Hall	5-4011	Music Library	Music Library	ls258@cornell.edu
+Wilkinson	Kathryn	315 Lincoln Hall	4-5388	Music Library	LTS - Cataloging	kcw44@cornell.edu
+Abel	Ben	110 Olin Library	5-5118	Olin Library	LTS - Acquisitions	ba16@cornell.edu
+Albright	Ada	106F Olin Library	5-3525	Olin Library	Coll. Ref. Instr. & Outreach	aa19@cornell.edu
+Argetsinger	Susan	B31 Olin Library	5-5766	Olin Library	Preservation & Collection Maintenance (P)	sga3@cornell.edu
+Arnstein	Matthew	504 Olin Library	5-5614	Olin Library	Digital Libraries & Info Tech	maa21@cornell.edu
+Arroyo	Pedro	110 Olin Library	5-5764	Olin Library	LTS - Cataloging	pca1@cornell.edu
+Arsenault	Mary	215 Olin Library	4-5018	Olin Library	Public Services & Assessment	mla4@cornell.edu
+Ataian	Milena	110 Olin Library	5-4969	Olin Library	LTS - Acquisitions	ma225@cornell.edu
+Aung	Kyi	B42 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	koa2@cornell.edu
+Bailey	Bonnie	235 Olin Library	5-7021	Olin Library	Lib Administrative Operations	bab2@cornell.edu
+Banush	David	110 D Olin Library	4-8031	Olin Library	LTS - Cataloging	dnb8@cornell.edu
+Basara	Mira	107 Olin Library	5-2931	Olin Library	Digital Libraries & Info Tech	mb327@cornell.edu
+Berger Eden	Barbara	B15 Olin Library	5-5291	Olin Library	Preservation & Collection Maintenance (P)	beb1@cornell.edu
+Bertoia	Lynn	213 Olin Library	5-4813	Olin Library	Library Communications	lmb20@cornell.edu
+Beyer III	Donald	501 Olin Library	5-7964	Olin Library	Digital Libraries & Info Tech	djb67@cornell.edu
+Blumenthal	Amy	B19 Olin Library	5-7142	Olin Library	Digital Libraries & Info Tech	ab18@cornell.edu
+Bodhiwamsa	Shakhya	107 Olin Library	5-2308	Olin Library	Digital Libraries & Info Tech	sdb94@cornell.edu
+Bosley	Cindy	234 Olin Library	5-9095	Olin Library	Lib Administrative Operations	clb13@cornell.edu
+Branch	Gary	110 Olin Library	5-0367	Olin Library	LTS - Acquisitions	gcb2@cornell.edu
+Brentlinger	Howard	B17 Olin Library	5-7557	Olin Library	Coll. Ref. Instr. & Outreach	hrb1@cornell.edu
+Brill	Rachel	201 Olin Library	5-3393	Olin Library	Lib Administration	rlb54@cornell.edu
+Brink	Joan	B32A Olin Library	5-9440	Olin Library	Preservation & Collection Maintenance (P)	jmb7@cornell.edu
+Bristol	Susan	234 Olin Library	5-5101	Olin Library	Lib Administrative Operations	scb5@cornell.edu
+Brown	Michele	B31 Olin Library	5-2484	Olin Library	Preservation & Collection Maintenance (P)	mb72@cornell.edu
+Bryan	Linda	235 Olin Library	5-8587	Olin Library	Lib Administrative Operations	lgb4@cornell.edu
+Buchanan	Jeri-Lynn	110A Olin Library	5-5118	Olin Library	LTS - Acquisitions	jb26@cornell.edu
+Bui	Yen	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	ytb1@cornell.edu
+Bussert	Kaila	106E Olin Library	4-6216	Olin Library	Coll. Ref. Instr. & Outreach	kjb82@cornell.edu
+Campbell	Candi	234 Olin Library	5-5102	Olin Library	Lib Administrative Operations	ccc38@cornell.edu
+Campbell	Peter	106 Olin Library	4-7481	Olin Library	Coll. Ref. Instr. & Outreach	pnc1@cornell.edu
+Carleton	Margaret	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	mc256@cornell.edu
+Cartland	Michelle	B42 Olin Library	5-9503	Olin Library	Preservation & Collection Maintenance (C)	mc257@cornell.edu
+Cartmill	Lee	201 Olin Library	5-5181	Olin Library	Lib Administration	ltc1@cornell.edu
+Castro Gessner	Ana Gabriela	106 Olin Library	5-4996	Olin Library	Coll. Ref. Instr. & Outreach	agc24@cornell.edu
+Chandler	Adam	501 Olin Library	5-5760	Olin Library	LTS - EResources & Serials (C)	alc28@cornell.edu
+Chen	Mei-Hsi	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	mc17@cornell.edu
+Clearwater	Pamela	B38 Olin Library	5-9841	Olin Library	Preservation & Collection Maintenance (P)	pac8@cornell.edu
+Clearwater	Roger	B31 Olin Library	5-5766	Olin Library	Preservation & Collection Maintenance (P)	rtc1@cornell.edu
+Cobb	Heather	B-40 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	hc285@cornell.edu
+Cobb	Susan	B38 Olin Library	5-4005	Olin Library	Preservation & Collection Maintenance (P)	smc18@cornell.edu
+Cole	Virginia	106 Olin Library	5-5359	Olin Library	Coll. Ref. Instr. & Outreach	vac11@cornell.edu
+Colt-Demaree	Jennifer	213B Olin Library	4-8390	Olin Library	Library Communications	jrc88@cornell.edu
+Connolly	Matthew	501 Olin Library	5-0653	Olin Library	Digital Libraries & Info Tech	mjc12@cornell.edu
+Conroy	David	B42 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	dc60@cornell.edu
+Cook	Deborah	105 Uris Library	5-6451	Olin Library	OKU Access Services	dc276@cornell.edu
+Cooke	Catherine	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	cac2@cornell.edu
+Crowe	Martha	220 Olin Library	4-8607	Olin Library	Lib Administration	mjc4@cornell.edu
+Crowley	Ann	234 Olin Library	5-9094	Olin Library	Lib Administrative Operations	ama8@cornell.edu
+DelaCuadra	Peter	110 Olin Library	5-5764	Olin Library	LTS - Cataloging	pd36@cornell.edu
+DeMello	Carla	213B Olin Library	4-7286	Olin Library	Library Communications	cd58@cornell.edu
+Dietrich	Dianne	107E Olin Library	4-5145	Olin Library	LTS - Metadata Services	dd388@cornell.edu
+Earle	Evan	B79 Kroch Library	5-3530	Olin Library	Rare & Manuscript Collections	efe4@cornell.edu
+Eastman	Michelle	201 Olin Library	5-3689	Olin Library	Lib Administration	mre2@cornell.edu
+Ecklund	Ariel	Annex Libraary	3-3164	Olin Library	Preservation & Collection Maintenance (P)	ab329@cornell.edu
+Engle	Michael	106 Olin Library	5-1884	Olin Library	Coll. Ref. Instr. & Outreach	moe1@cornell.edu
+Entlich	Richard	215 Olin Library	5-9563	Olin Library	Library Research	rge1@cornell.edu
+Finlay	Caitlin	B42 Olin Library	5-5294	Olin Library	Interlibrary Services	cmf7@cornell.edu
+Fox	Patricia	B31 Olin Library	5-5766	Olin Library	Preservation & Collection Maintenance (P)	paf3@cornell.edu
+Frankel	Jonathan	 B42 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	jef17@cornell.edu
+Frantz	Jan	110C Olin Library	5-0367	Olin Library	LTS - Database Management Services	jf13@cornell.edu
+Fung	Kenneth	315 Lincoln Hall	5-7046	Olin Library	LTS - Cataloging	kf12@cornell.edu
+Garen	Rhea	107 Olin Library	5-5177	Olin Library	Digital Libraries & Info Tech	rg27@cornell.edu
+Ghangas	Surinder	501 Olin Library	5-0636	Olin Library	Digital Libraries & Info Tech	sg14@cornell.edu
+Gibson	Jennifer	101 Olin Library	5-1882	Olin Library	OKU Access Services	jeg256@cornell.edu
+Gislason	David	B19 Olin Library	5-5766	Olin Library	Preservation & Collection Maintenance (P)	dkg28@cornell.edu
+Glazer	Gwen	213 Olin Library	5-4813	Olin Library	Library Communications	grg59@cornell.edu
+Goldman	Andrew	B Olin Library	5-8530	Olin Library	Digital Libraries & Info Tech	ag259@cornell.edu
+Habicht	Oliver	501 Olin Library	5-4673	Olin Library	Digital Libraries & Info Tech	oh10@cornell.edu
+Hamill	Michele	B31 Olin Library	5-5766	Olin Library	Preservation & Collection Maintenance (P)	mh92@cornell.edu
+Hancy	Patrick	B42 Olin Library	5-9564	Olin Library	Interlibrary Services	pmh54@cornell.edu
+Havananda	Sutani	110 Olin Library	5-5764	Olin Library	LTS - Cataloging	sh549@cornell.edu
+Heisey	Laura	B19 Olin Library	5-1203	Olin Library	Digital Libraries & Info Tech	ljh2@cornell.edu
+Hirtle	Peter	215 Olin  Library	5-4033	Olin Library	Public Services & Assessment	pbh6@cornell.edu
+Hoffmann	John	214 Olin Library	5-3569/227-5759	Olin Library	Lib Administrative Operations	jah9@cornell.edu
+Homza	Joseph	B19 Olin Library	5-2845	Olin Library	Digital Libraries & Info Tech	jh688@cornell.edu
+Houissa	Abdelali	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	ah16@cornell.edu
+How	Sarah	106 Olin Library	5-9478	Olin Library	Coll. Ref. Instr. & Outreach	seh4@cornell.edu
+Howe	Tiffany	201 Olin Library	5-5181	Olin Library	Lib Administration	tlh39@cornell.edu
+Hoyt	Peter	503 Olin Library	5-3068	Olin Library	Digital Libraries & Info Tech	ph44@cornell.edu
+Hubbard	Sherry	B38 Olin Library	5-5765	Olin Library	Preservation & Collection Maintenance (P)	smh26@cornell.edu
+Hubbell	Michelle	101C Olin Library	5-7027	Olin Library	OKU Access Services	mah94@cornell.edu
+Hughes	Kathryn	B40 Olin Library	5-9503	Olin Library	Preservation & Collection Maintenance (C)	kh14@cornell.edu
+Hunt	Thomas	B40 Olin Library	4-5287	Olin Library	Preservation & Collection Maintenance (C)	tah16@cornell.edu
+Karlman	Judd	101 Olin Library	5-7029	Olin Library	OKU Access Services	jk448@cornell.edu
+Kehoe	William	501 Olin Library	4-8220	Olin Library	Digital Libraries & Info Tech	wrk1@cornell.edu
+Kelly	Beth	110 Olin	5-5752	Olin Library	LTS - Cataloging	bak24@cornell.edu
+Kendall	Sharon	701 Olin Library	5-9868	Olin Library	Library Alumni Affairs and Development	stk22@cornell.edu
+Kenney	Anne	201 Olin Library	5-6875	Olin Library	Lib Administration	ark3@cornell.edu
+Kepecs	Randi	106 Olin Library	4-7481	Olin Library	Coll. Ref. Instr. & Outreach	rk16@cornell.edu
+Keville	R. Anne	B42 Olin Library	5-5293	Olin Library	Interlibrary Services	rak2@cornell.edu
+Kibbee	Robert	B16 Olin Library	5-9566	Olin Library	Preservation & Collection Maintenance (C)	rk14@cornell.edu
+Kim	Ivis	B19 Olin	5-9440	Olin Library	Preservation & Collection Maintenance (P)	 iab3@cornell.edu
+Kim	Sung Ok	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	sok1@cornell.edu
+Kim Wu	Somaly	Mann Library	5-7731	Olin Library	Lib Administration	sk795@cornell.edu
+Koltay	Zsuzsa	221 Olin Library	5-6188	Olin Library	Lib Administration	zk10@cornell.edu
+Koons	Philip	214 Olin Library	5-3455	Olin Library	Lib Administrative Operations	pak37@cornell.edu
+Korhonen	Anna	110C Olin Library	5-5762	Olin Library	LTS - Acquisitions	ahk3@cornell.edu
+Kozak	George	501 Olin Library	5-8924	Olin Library	Digital Libraries & Info Tech	gsk5@cornell.edu
+Krafft	Dean	201 Olin Library	5-5181	Olin Library	Lib Administration	dk15@cornell.edu
+Krasnow	Laura	107 Olin Library	5-5177	Olin Library	Digital Libraries & Info Tech	lpk32@cornell.edu
+Krolick	Ryan	106 Olin Library	254-2999	Olin Library	Coll. Ref. Instr. & Outreach	rk436@cornell.edu
+Kurbanova	Nelli	110B Olin Library	5-4969	Olin Library	LTS - Acquisitions	nk31@cornell.edu
+Kurbanova	Yelena	110  Olin Library	5-4969	Olin Library	LTS - Cataloging	ysk2@cornell.edu
+Kurth	Martin	501 Olin Library	5-6112	Olin Library	Digital Libraries & Info Tech	mk168@cornell.edu
+Ladley	Jonathan	214 Olin Library	4-5369	Olin Library	Lib Administrative Operations	jfl65@cornell.edu
+Lance	Catherine	213 Olin Library	5-4956	Olin Library	Library Communications	cjl10@cornell.edu
+Lange	Cynthia	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	cgl2@cornell.edu
+LeBlanc	James	110A Olin Library	4-5290	Olin Library	LTS - Acquisitions	jdl8@cornell.edu
+Lessmeister	Martin	107E Olin Library	5-9849	Olin Library	Digital Libraries & Info Tech	mhl10@cornell.edu
+Li	Xin	215 Olin Library	5-7026	Olin Library	Public Services & Assessment	xl49@cornell.edu
+Lightbody	Richard	B19 Olin Library	5-3342	Olin Library	Digital Libraries & Info Tech	rpl1@cornell.edu
+Lin	Shu-Jan	110 Olin Library	5-9487	Olin Library	LTS - Acquisitions	sl53@cornell.edu
+Lockwood	Sally	107E Olin Library	5-5757	Olin Library	LTS - Database Management Services	SJL8@cornell.edu
+Lutkenhouse	Francis	110 Olin Library	5-5764	Olin Library	LTS - Cataloging	fl31@cornell.edu
+Lyons	Chun Mei	110 Olin Library	5-5118	Olin Library	LTS - Acquisitions	cl26@cornell.edu
+Magnus	Peter	B19 Olin Library	5-4436/5-8530	Olin Library	Digital Libraries & Info Tech	pam62@cornell.edu
+Magnus	Tami	234 Olin Library	5-9097	Olin Library	Lib Administrative Operations	tjm33@cornell.edu
+Mains	Craig	115 Olin Library	5-7029	Olin Library	OKU Access Services	csm4@cornell.edu
+Margirier	Nicole	106 Olin Library	4-7481	Olin Library	Coll. Ref. Instr. & Outreach	nm86@cornell.edu
+Marmora	John	B40  Olin Library	5-6905	Olin Library	Preservation & Collection Maintenance (C)	jpm7@cornell.edu
+Marsh	Ellen	213 Olin Library	4-4680	Olin Library	Library Communications	ebm7@cornell.edu
+Martinez	Peter	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	pm66@cornell.edu
+Martini Lyons	Mary Beth	504 Olin Library	5-9965	Olin Library	Digital Libraries & Info Tech	mm524@cornell.edu
+Maybury	Lisa	110 Olin Library	5-5118	Olin Library	LTS - Acquisitions	lat3@cornell.edu
+McCarty	Apikanya	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	am224@cornell.edu
+McNamara	Joseph	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	jm17@cornell.edu
+Mei	Teresa	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	tkm2@cornell.edu
+Mericle	Danielle	107 Olin Library	5-2308	Olin Library	Digital Libraries & Info Tech	dkm26@cornell.edu
+Messing	Robin	B40 Olin Library	5-4246	Olin Library	Preservation & Collection Maintenance (C)	rsm7@cornell.edu
+Mi	Yan Yun	110 Olin Library	5-4969	Olin Library	LTS - Acquisitions	ym78@cornell.edu
+Michev	Boris	B39B Olin Library	5-5912	Olin Library	Preservation & Collection Maintenance (C)	bm19@cornell.edu
+Miller	Linda	215 Olin Library	5-7401	Olin Library	Library Research	lm15@cornell.edu
+Millman	J. Lee	B42 Olin Library	5-5293	Olin Library	Interlibrary Services	jm47@cornell.edu
+Miner	Nathan	B40 Olin Library	4-5204	Olin Library	Preservation & Collection Maintenance (C)	njm8@cornell.edu
+Mohlke	Bronwyn	107 Olin Library	5-2931	Olin Library	Digital Libraries & Info Tech	bjm9@cornell.edu
+Moore	Mafalda	110 Olin Library	5-9487	Olin Library	LTS - Acquisitions	mm355@cornell.edu
+Morris	Maureen	106 Olin Library	5-7455	Olin Library	Coll. Ref. Instr. & Outreach	mm342@cornell.edu
+Muller	Elizabeth	110in Library	5-5752	Olin Library	LTS - Cataloging	edm29@cornell.edu
+Muratori	Frederick	106 Olin Library	5-6662/5-3319	Olin Library	Coll. Ref. Instr. & Outreach	fmm1@cornell.edu
+Myint	Swe Swe	110 Olin Library	5-9488	Olin Library	LTS - Cataloging	sm89@cornell.edu
+Nadav-Manes	Boaz	110 Olin Library	5-4969	Olin Library	LTS - Acquisitions	btn3@cornell.edu
+Nair	Michelle	101C Olin Library	5-4994	Olin Library	OKU Access Services	mn234@cornell.edu
+Nehler	Gregory	107E Olin Library	4-8094	Olin Library	LTS - Metadata Services	gln1@cornell.edu
+Newberry	Susette	106 Olin	5-3927	Olin Library	Coll. Ref. Instr. & Outreach	sn18@cornell.edu
+O'Brien	Liane	106 Olin Library	5-3319	Olin Library	Coll. Ref. Instr. & Outreach	lew14@cornell.edu
+Ohlsten	Karen	B42 Olin Library	5-5293	Olin Library	Interlibrary Services	ko29@cornell.edu
+Paige	Richard	B40 Olin Library	4-5206	Olin Library	Preservation & Collection Maintenance (C)	rmp13@cornell.edu
+Patrick	Fiona	107 Olin Library	5-1830	Olin Library	Digital Libraries & Info Tech	fcp2@cornell.edu
+Perenyi	Elizabeth	B60 Mann Library	5-3605	Olin Library	LTS - EResources & Serials (E)	ep17@cornell.edu
+Petrina	Ecaterina	110 Olin Library	5-9488	Olin Library	LTS - Cataloging	ep19@cornell.edu
+Petro	Linda	B60 Mann Library	5-3418	Olin Library	LTS - EResources & Serials (E)	ljp3@cornell.edu
+Pettis	Lydia	501 Olin Library	5-9477	Olin Library	Digital Libraries & Info Tech	lp14@cornell.edu
+Phillips	Allen	B41 Olin Library	5-4700	Olin Library	Lib Administrative Operations	awp4@cornell.edu
+Pikulik	Natalya	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	np55@cornell.edu
+Poland	Jean	217 Olin Library	5-6038	Olin Library	Public Services & Assessment	jp126@cornell.edu
+Prignon	Lyndsi	235 Olin Library	5-9560	Olin Library	Lib Administrative Operations	lra8@cornell.edu
+Prokopenko	Yuri	B42 Olin Library	5-9503	Olin Library	Preservation & Collection Maintenance (C)	yp39@cornell.edu
+Purcell	Lois	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	lap11@cornell.edu
+Radoja	Zora	B38 Olin Library	5-4005	Olin Library	Preservation & Collection Maintenance (P)	zr25@cornell.edu
+Reddy	Kavitha	106 Olin Library	4-6224	Olin Library	Lib Administration	krr45@cornell.edu
+Reidy	James	504 Olin Library	5-0380	Olin Library	Digital Libraries & Info Tech	jgr25@cornell.edu
+Revels	Ira	223 Olin  Library	5-1569	Olin Library	Public Services & Assessment	ir33@cornell.edu
+Rich	Cynthia	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	cpr9@cornell.edu
+Richardson	Joseph	B19 Olin Library	4-6377	Olin Library	Digital Libraries & Info Tech	jsr38@cornell.edu
+Rieger	Oya	501 Olin Library	4-5160	Olin Library	Digital Libraries & Info Tech	oyr1@cornell.edu
+Rokitka	Stephen	501 Olin Library	4-3344	Olin Library	Digital Libraries & Info Tech	spr47@cornell.edu
+Roper	Jinhee	501 Olin Library	5-9897	Olin Library	Digital Libraries & Info Tech	jr399@cornell.edu
+Ross	Sarah	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	str1@cornell.edu
+Ruddy	David	107D Olin  Library	5-6803	Olin Library	Digital Libraries & Info Tech	dwr4@cornell.edu
+Saikkonen	Rosemarie	B60 Mann Library	5-3418	Olin Library	LTS - EResources & Serials (E)	rw15@cornell.edu
+Sawyer	Jennifer	701 Olin Library	5-9568	Olin Library	Lib Administration	jds367@cornell.edu
+Sayers	William	110 Olin Library	5-9487	Olin Library	Coll. Ref. Instr. & Outreach	ws36@cornell.edu
+Sayers	William	110 Olin Library	5-9487	Olin Library	LTS - Acquisitions	ws36@cornell.edu
+Schafer	Patricia	101E Olin Library	5-3757	Olin Library	Public Services & Assessment	pas6@cornell.edu
+Schmidle	Deborah	106 Olin Library	5-3680	Olin Library	Coll. Ref. Instr. & Outreach	dj13@cornell.edu
+Schwartz	Suzanne	B14 Olin Library	5-6785	Olin Library	Preservation & Collection Maintenance (C)	sms8@cornell.edu
+Sczepanski	Linda	B41 Olin Library	5-4700	Olin Library	Lib Administrative Operations	las11@cornell.edu
+Sellen	Rebecca	234 Olin Library	5-2314	Olin Library	Lib Administrative Operations	rss32@cornell.edu
+Sercan	Cecilia	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	css4@cornell.edu
+Sercan	Kadri	B42 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	ks21@cornell.edu
+Shank	Gerda	501 Olin Library	5-7488	Olin Library	Digital Libraries & Info Tech	gs364@cornell.edu
+Sharpe	Bridgette	101 Olin Library	5-4245	Olin Library	OKU Access Services	bls85@cornell.edu
+Shaver	Troy	101 Olin Library	5-4245	Olin Library	OKU Access Services	tbs23@cornell.edu
+Shipman	Heather	110 Olin Library	5-5764	Olin Library	LTS - Cataloging	hne2@cornell.edu
+Silterra	Enrico	501 Olin Library	5-6851	Olin Library	Digital Libraries & Info Tech	es287@cornell.edu
+Sinclair	Sandra	110 Olin Library	5-5118	Olin Library	LTS - Acquisitions	sws38@cornell.edu
+Skipper	Nancy	106 Olin Library	5-5176	Olin Library	Coll. Ref. Instr. & Outreach	nss3@cornell.edu
+Smith	Adam	504A Olin Library	5-5626	Olin Library	Digital Libraries & Info Tech	ajs17@cornell.edu
+Smith	Laura	B38 Olin Library	5-9840	Olin Library	Preservation & Collection Maintenance (P)	lfs2@cornell.edu
+Snedeker	Carol	B60 Mann Library	5-2286	Olin Library	LTS - EResources & Serials (E)	cs18@cornell.edu
+Solla	Nancy	107E Olin Library	4-8094	Olin Library	LTS - Metadata Services	nv19@cornell.edu
+Stansbury	Pamela	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	pjs4@cornell.edu
+Stevens	Laurie	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	lms6@cornell.edu
+Stiefel	Dorothy	110B Olin Library	5-5118	Olin Library	LTS - Cataloging	daf10@cornell.edu
+Talmadge	Daniel	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	dct6@cornell.edu
+Tancheva	Kornelia	106E Olin Library	5-3774	Olin Library	Coll. Ref. Instr. & Outreach	kt18@cornell.edu
+Tarbox	Barbara	107E Olin Library	5-5757	Olin Library	LTS - Database Management Services	bmt1@cornell.edu
+Taylor	Barbara	110 Olin Library	5-5752	Olin Library	LTS - Cataloging	bwt1@cornell.edu
+Thitchener	Lynn	106 Olin Library	5-4985	Olin Library	Coll. Ref. Instr. & Outreach	lmk7@cornell.edu
+Thomas	Joy	B42 Olin Library	5-6451	Olin Library	Interlibrary Services	jat65@cornell.edu
+Tiddick	Kenneth	107 E Olin Library	5-5757	Olin Library	LTS - Database Management Services	kmt38@cornell.edu
+Tseng	Wei	107 Olin Library	5-0367	Olin Library	LTS - Database Management Services	wt32@cornell.edu
+Tsokyi	Tenzin	110A Olin Library	5-9487	Olin Library	LTS - Acquisitions	tt96@cornell.edu
+Uchiyama	Masayo	110A Olin Library	5-9487	Olin Library	LTS - Acquisitions	mu44@cornell.edu
+Valli	Ubaldo	B42 Olin Library	5-9565	Olin Library	Preservation & Collection Maintenance (C)	udv1@cornell.edu
+Villines	Jarrett	B40 Olin Library	5-6905	Olin Library	Preservation & Collection Maintenance (C)	jcv44@cornell.edu
+Walker	Kizer	106F Olin Library	4-1375	Olin Library	Coll. Ref. Instr. & Outreach	kw33@cornell.edu
+Warfield	Debra	110 Olin Library	5-0367	Olin Library	LTS - Database Management Services	dcw8@cornell.edu
+Warner	Simeon	"College Ave, 301 CIS"	4-8605	Olin Library	Digital Libraries & Info Tech	sw272@cornell.edu
+Wawro	Wanda	106F Olin Library	5-9482	Olin Library	Coll. Ref. Instr. & Outreach	wtw3@cornell.edu
+Weiskoff	Jacob	501 Olin Library	5-5312	Olin Library	Digital Libraries & Info Tech	jsw73@cornell.edu
+Weissman	Edward	201 Olin Library	5-5754	Olin Library	Lib Administration	esw3@cornell.edu
+Westfall	F. Kaye	110C Olin Library	5-0367	Olin Library	LTS - Database Management Services	fw11@cornell.edu
+White	Ardeen	110C Olin Library	5-5752	Olin Library	LTS - Cataloging	alw3@cornell.edu
+Wicks	Scott	111A Olin Library	5-9405	Olin Library	LTS - Administration	sbw2@cornell.edu
+Wilcox	Wendy	106 E Olin Library	4-6241	Olin Library	Coll. Ref. Instr. & Outreach	ww83@cornell.edu
+Wiley	Glen	107 E Olin Library	4-5145	Olin Library	LTS - Metadata Services	gsw55@cornell.edu
+Williams	Johanna	101C Olin Library	5-7028	Olin Library	OKU Access Services	jf40@cornell.edu
+Yeshak	Tsedal	110 Olin Library	5-4969	Olin Library	LTS - Acquisitions	ty15@cornell.edu
+Zucker	Yael	110 Olin Library	5-9487	Olin Library	LTS - Acquisitions	yz276@cornell.edu
+Dongtoe	Sonam	Clark Hall	5-4016	Physical Sciences Library	Physical Sciences Library	st35@cornell.edu
+Hensley	Kirsten	293 Clark Hall	4-8007	Physical Sciences Library	Physical Sciences Library	kh287@cornell.edu
+Muscato	Debralyn	Clark Hall	4-6315	Physical Sciences Library	Physical Sciences Library	dbm2@cornell.edu
+Paolillo	Michelle	247 Carpenter Hall	5-1038	Physical Sciences Library	Physical Sciences Library	map6@cornell.edu
+Solla	Leah	293 Clark Hall	5-1361	Physical Sciences Library	Physical Sciences Library	lrm1@cornell.edu
+Ulbricht	Jill	286 Clark Hall	5-8981	Physical Sciences Library	Physical Sciences Library	ju23@cornell.edu
+Viele	Patricia	286 Clark Hall	5-0067	Physical Sciences Library	Physical Sciences Library	ptv1@cornell.edu
+Wilcox	Barbara	293A Clark Hall	5-8663	Physical Sciences Library	Physical Sciences Library	buw1@cornell.edu
+Bartley	Amanda	105 Uris Library	5-3537	Uris Library	OKU Access Services	ab829@cornell.edu
+Blankinship	Carmen	101D Olin Library	5-9567	Uris Library	OKU Access Services	cb16@cornell.edu
+Clark	Ronald	2B05 Uris Library	5-2405	Uris Library	Lib Administrative Operations	rbc9@cornell.edu
+Cobb	George	2B07 Uris Library	5-3829	Uris Library	Lib Administrative Operations	gwc5@cornell.edu
+Cosgrave	Anthony	109 Uris LIbrary	5-7148	Uris Library	Coll. Ref. Instr. & Outreach	ajc5@cornell.edu
+Cote	William	105 Uris Library	5-4245	Uris Library	OKU Access Services	wjc24@cornell.edu
+Cotton	Thomas	2B05 Uris Library	5-5767	Uris Library	Lib Administrative Operations	tkc2@cornell.edu
+Critchfield	Darla	105B Uris Library	5-3414	Uris Library	OKU Access Services	dc242@cornell.edu
+Del Plato	Anthony	101 Uris Library	5-1882	Uris Library	OKU Access Services	ad322@cornell.edu
+Ehling	Teresa	309 Uris Library	5-4490	Uris Library	Digital Libraries & Info Tech	te32@cornell.edu
+Fenton	Donald	B07 Uris Library	5-2847	Uris Library	Lib Administrative Operations	drf5@cornell.edu
+Fielding	David	107E Olin Library	4-6718	Uris Library	Digital Libraries & Info Tech	dlf2@cornell.edu
+Fitzgerald	John	104 Uris Library	5-3537	Uris Library	OKU Access Services	jaf46@cornell.edu
+Grippo	Ian	2B07 Uris Library	5-3829	Uris Library	Lib Administrative Operations	img22@cornell.edu
+Heidig	Lance	104A Uris  Library	5-2954	Uris Library	Coll. Ref. Instr. & Outreach	ljh5@cornell.edu
+Kim	Shin-Woo	107 E Olin Library	5-5789	Uris Library	Digital Libraries & Info Tech	sk274@cornell.edu
+Kotaska	Robert	105 Uris Library	5-3537	Uris Library	OKU Access Services	rfk45@cornell.edu
+Miller	Glenna	105  Uris Library	5-9567	Uris Library	OKU Access Services	gm83@cornell.edu
+Rose	Michael	2B07 Uris Library	5-3829	Uris Library	Lib Administrative Operations	mdr35@cornell.edu
+Schlough	Peter	B Olin Library	5-2847	Uris Library	Lib Administrative Operations	ps265@cornell.edu
+Silfer	Bethany	105A Uris Library	5-3758	Uris Library	OKU Access Services	bb29@cornell.edu
+Spry	Adam	2B06 Uris Library	5-5767	Uris Library	Lib Administrative Operations	aes44@cornell.edu
+Teeter	Kariann	Uris Library	5-3537	Uris Library	OKU Access Services	kt76@cornell.edu
+Walsh	Chad	Uris Library	5-4245	Uris Library	OKU Access Services	cw287@cornell.edu
+Heyns	Erla	S2-160 Vet Education Center	3-3515	Veterinary Library	Veterinary Library	eph8@cornell.edu
+Kristensen	Terry	S2-160 Vet Education Center	3-4333	Veterinary Library	Veterinary Library	tlk23@cornell.edu
+Lamb	Cynthia	S2-160 Vet Education Center	3-3513	Veterinary Library	Veterinary Library	ckl8@cornell.edu
+Miller	Patricia	S2-160 Schurman Hall	3-3496	Veterinary Library	Veterinary Library	pem2@cornell.edu
+Thomas	Donna	S2-163 vet Education Center	3-3512	Veterinary Library	Veterinary Library	dmt22@cornell.edu
+Whitaker	Susanne	S2-160 Schurman Hall	3-3499	Veterinary Library	Veterinary Library	skw2@cornell.edu
+﻿

@@ -1,0 +1,80 @@
+<?php
+// $Id$
+/**
+ * @file
+ * Module to manage, search, sort, and display staff directory information.
+ */
+
+/**
+ * Implementation of hook_help()
+ */
+function staff_directory_help($path, $arg) {
+    if ($path == 'admin/help#staff_directory') {
+        $txt = 'The staff directory module is used to to manage staff directory information.';
+    }
+    return '<p>' . t($txt) . '</p>';
+}
+
+function load_person_nodes() {
+  $results = db_query('select nid
+                       from node
+                       where type="person"
+                       order by changed asc
+                       limit 50');
+  $people = array();
+  while ($result = db_fetch_object($results)) {
+    $people[$result->nid] = node_load($result->nid);
+  }
+  return $people;
+}
+
+/**
+ * Implementation of hook_cron()
+ */
+function staff_directory_cron() {
+  $people = load_person_nodes();
+  foreach ($people as $node) {
+    if (isset($node->field_netid[0]['value']) && $node->field_netid[0]['value'] != '') {
+      $ldap = get_ldap_data('givenname,sn,cornelleducampusaddress,cornelleducampusphone,mail' ,$node->field_netid[0]['value']);
+
+      //if (! isset($node->title) && $node->title != '') {
+        if (isset($ldap['givenname']) && $ldap['givenname'] != '' && isset($ldap['sn']) && $ldap['sn'] == '') {
+          $node->title = $ldap['givenname'] . ' ' . $ldap['sn'];
+        }
+      //}
+
+      //if (! isset($node->field_firstname[0]['value']) && $node->field_firstname[0]['value'] == '') {
+        if (isset($ldap['givenname']) && $ldap['givenname'] != '') {
+           $node->field_firstname[0]['value'] = $ldap['givenname'];
+        }
+     //}
+
+      //if (! $node->field_lastname[0]['value'] && $node->field_lastname[0]['value'] == '') {
+        if (isset($ldap['sn']) && $ldap['sn']) {
+          $node->field_lastname[0]['value'] = $ldap['sn'];
+        }
+     //}
+
+      //if (! $node->field_work_address[0]['value'] && $node->field_work_address[0]['value'] == '') {
+        if (isset($ldap['cornelleducampusaddress']) && $ldap['cornelleducampusaddress'] != '') {
+          $node->field_work_address[0]['value'] = $ldap['cornelleducampusaddress'];
+        }
+      //}
+
+      //if (! $node->field_person_phone[0]['value'] && $node->field_person_phone[0]['value'] == '') {
+        if (isset($ldap['cornelleducampusphone']) && $ldap['cornelleducampusphone'] != '') {
+          $node->field_person_phone[0]['value'] = $ldap['cornelleducampusphone'];
+        }
+      //}
+
+      //if (! $node->field_person_email[0]['email'] && $node->field_person_email[0]['email'] == '') {
+        if (isset($ldap['mail']) && $ldap['mail'] != '') {
+          $node->field_person_email[0]['email'] = $ldap['mail'];
+        }
+      //}
+
+      node_save($node);
+    }
+  }
+}
+
